@@ -2,7 +2,7 @@
 
 - Currently working on: School projects 👈
   
-- Currently learning:  🧠
+- Currently learning:  💎
   - [x] Redux Toolkit
   - [ ] Typescript
   - [ ] NextJS
