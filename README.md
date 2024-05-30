@@ -5,6 +5,6 @@
 - Currently learning:  💎
   - [x] Redux Toolkit
   - [ ] Typescript
-  - [ ] NextJS,,,
+  - [ ] NextJS,,,,
 
 - [Connect with me on Linkedin](https://www.linkedin.com/in/kevin-lan-/) 🥂
