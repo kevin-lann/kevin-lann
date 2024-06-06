@@ -1,6 +1,6 @@
 ## *Welcome to my page!*
 
-- Currently working on: School projects 👈dd
+- Currently working on: School projects 👈ddd
   
 - Currently learning:  💎
   - [x] Redux Toolkit
