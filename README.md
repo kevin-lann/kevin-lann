@@ -1,4 +1,4 @@
-....## *Welcome to my page!*
+.....## *Welcome to my page!*
 
 - Currently working on: School projects 👈
   
