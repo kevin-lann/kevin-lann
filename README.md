@@ -4,7 +4,7 @@
   
 - Currently learning:  💎
   - [x] Redux Toolkit
-  - [ ] Typescript
+  - [x] Typescript
   - [ ] NextJS
 
 - [Connect with me on Linkedin](https://www.linkedin.com/in/kevin-lan-/) 🥂
