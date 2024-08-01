@@ -3,8 +3,7 @@
 - Currently working on: School projects 👈
   
 - Currently learning:  💎
-  - [x] Redux Toolkit
-  - [x] Typescript
   - [ ] NextJS
+  - [ ] Postgresql
 
 - [Connect with me on Linkedin](https://www.linkedin.com/in/kevin-lan-/) 🥂
