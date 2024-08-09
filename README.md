@@ -1,7 +1,4 @@
-./.
-/
-.
-////## *Welcome to my page!*
+## *Welcome to my page!*
 
 - Currently working on: Co op 👈
   
