@@ -3,6 +3,6 @@
 - Currently working on: Co op 👈
   
 - Currently learning:  💎
-  - [ ] NextJS
+  - [ ] AWS
 
 - [Connect with me on Linkedin](https://www.linkedin.com/in/kevin-lan-/) 🥂
