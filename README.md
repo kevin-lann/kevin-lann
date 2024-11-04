@@ -1,6 +1,6 @@
 ## *Welcome to my page!*
 
-- Currently working on: Co op 👈
+- Currently working on: Portfolio 👈
   
 - Currently learning:  💎
   - [ ] AWS
