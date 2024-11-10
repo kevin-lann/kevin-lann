@@ -1,5 +1,7 @@
 ## *Welcome to my page!*
 
+![Thumbnail](/coollogo_com-90624.gif)
+
 Toronto, ON 
 
 Full stack web developer intern, FPT Canada
