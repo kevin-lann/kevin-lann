@@ -1,4 +1,4 @@
-.## *Welcome to my page!*
+## *Welcome to my page!*
 
 ![Thumbnail](/coollogo_com-90624.gif)
 
