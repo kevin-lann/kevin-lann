@@ -1,15 +1,8 @@
 ## *Welcome to my page!*
 
 ![Thumbnail](/coollogo_com-90624.gif)
-### About me:
 
-📍 Toronto, ON 
-
-🧑‍💼 Full stack web developer intern, FPT Canada
-
-🏫 3rd Year Computer Science Bsc. Entrepreneurship specialist, University of Toronto Scarborough
-
-### My tech stack:
+### My tech stack
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -25,5 +18,18 @@
   <img alt="Tailwindcss" src="https://img.shields.io/badge/-Tailwindcss-46a2f1?style=flat-square&logo=Tailwindcss&logoColor=white" />
 </p>
 
+### About me
+
+📍 Toronto, ON 
+
+🧑‍💼 Full stack web developer intern, FPT Canada
+
+🏫 3rd Year Computer Science Bsc. Entrepreneurship specialist, University of Toronto Scarborough
+
+### Recent work
+
 - Currently working on: PORTFOLIO 2025 👈
+
+### Contact me!
+
 - [Connect with me on Linkedin](https://www.linkedin.com/in/kevin-lan-/) 🥂
