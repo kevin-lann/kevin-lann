@@ -29,7 +29,7 @@
 
 ### Recent work
 
-- Currently working on: PORTFOLIO 2025 👈
+- Currently working on: Microservices chat server 👈
 
 ### Contact me!
 
