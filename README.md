@@ -31,6 +31,7 @@
 
 - Currently working on: Microservices chat server 👈
 
-### Contact me!
+### Links
 
 - [Connect with me on Linkedin](https://www.linkedin.com/in/kevin-lan-/) 🥂
+- [My portfolio site](https://kevinlan.vercel.app/) ✨
