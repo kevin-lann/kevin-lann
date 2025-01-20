@@ -1,5 +1,3 @@
-## *Welcome to my page!*
-
 ![Thumbnail](/banner-github.png)
 
 ### My tech stack
