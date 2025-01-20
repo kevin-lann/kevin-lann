@@ -21,7 +21,7 @@
 
 📍 Toronto, ON 
 
-🧑‍💼 (Former) Full stack web developer intern, FPT Canada
+🧑‍💼 (Former) Full stack developer intern, FPT Canada
 
 🏫 3rd Year Computer Science Bsc. Entrepreneurship specialist, University of Toronto Scarborough
 
