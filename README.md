@@ -27,7 +27,7 @@
 
 ### Recent work
 
-- Currently working on: Microservices chat server 👈
+- Currently working on: AI course timetable builder assistant👈
 
 ### Links
 
