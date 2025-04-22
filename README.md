@@ -21,7 +21,8 @@
 
 📍 Toronto, ON 
 
-🧑‍💼 (Former) Full stack developer intern, FPT Software Canada
+🧑‍💼 (Current) SWE intern @ Borderpass
+(Former) Full stack developer intern @ FPT Software
 
 🏫 3rd Year Computer Science Bsc. Entrepreneurship specialist, University of Toronto Scarborough
 
