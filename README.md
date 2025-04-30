@@ -21,7 +21,7 @@
 
 📍 Toronto, ON 
 
-🧑‍💼 (Current) SWE intern @ Borderpass
+🧑‍💼 SWE intern @ Borderpass
 
 🏫 3rd Year Computer Science Bsc. Entrepreneurship specialist, University of Toronto Scarborough
 
