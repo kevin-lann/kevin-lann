@@ -25,10 +25,6 @@
 
 🏫 3rd Year Computer Science Bsc. Entrepreneurship specialist, University of Toronto Scarborough
 
-### Recent work
-
-- Currently working on: AI course timetable builder assistant👈
-
 ### Links
 
 - [Connect with me on Linkedin](https://www.linkedin.com/in/kevin-lan-/) 🥂
