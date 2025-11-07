@@ -23,7 +23,7 @@
 
 🧑‍💼 SWE intern @ Borderpass
 
-🏫 3rd Year Computer Science Bsc. Entrepreneurship specialist, University of Toronto Scarborough
+🏫 4th Year Computer Science Bsc. Entrepreneurship specialist, University of Toronto Scarborough
 
 ### Links
 
