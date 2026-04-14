@@ -7,4 +7,4 @@ SWE intern @ Borderpass
 ### Links
 
 - [Connect with me on Linkedin](https://www.linkedin.com/in/kevin-lan-/) 
-- [My portfolio site](https://kevinlan.vercel.app/) 
+- [My portfolio site](https://kevinlan.space/) 
