@@ -1,9 +1,5 @@
 <p align="center">
-  <img
-    src="https://lottie.host/12f70295-a2dd-452c-9f0b-0e9bcda84257/2SWJqsb5wb.svg"
-    alt="Hosted Lottie Animation"
-    width="550"
-  />
+  <img src="abstract.svg" width="300" />
 </p>
 
 Toronto, ON 
