@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="https://lottie.host/12f70295-a2dd-452c-9f0b-0e9bcda84257/2SWJqsb5wb.svg"
+    alt="Hosted Lottie Animation"
+    width="550"
+  />
+</p>
+
 Toronto, ON 
 
 SWE intern @ Borderpass
