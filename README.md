@@ -4,7 +4,7 @@
 
 Toronto, ON 
 
-SWE intern @ Borderpass
+Prev SWE intern @ Borderpass
 
 4th Year Computer Science Bsc. Entrepreneurship specialist, University of Toronto Scarborough
 
