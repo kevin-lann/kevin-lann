@@ -8,6 +8,8 @@ Prev SWE intern @ Borderpass
 
 4th Year Computer Science Bsc. Entrepreneurship specialist, University of Toronto Scarborough
 
+Building Interleave (coming soon)
+
 ### Links
 
 - [Connect with me on Linkedin](https://www.linkedin.com/in/kevin-lan-/) 
