@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="abstract.svg" width="300" />
+  <img src="interleave-logo-chrome.svg" width="300" />
 </p>
 
 Toronto, ON 
