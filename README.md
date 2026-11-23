@@ -2,7 +2,7 @@
   <img src="interleave-logo-chrome.gif" width="300" />
 </p>
 <p align="center">
-  Building Interleave (coming soon)
+  <a target="_blank" href="https://interleaveqa.com/" >Try Interleave - AI QA agent</a>
 </p>
 
 Toronto, ON 
